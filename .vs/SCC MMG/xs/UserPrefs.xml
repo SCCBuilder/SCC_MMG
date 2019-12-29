@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{93E56ED1-8FF3-F49A-1BB5-CF9439C6185E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MMG_Turorial.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="31" Column="5" />
+      <File FileName="Assets/Scripts/MMG_Action1.cs" />
+      <File FileName="Assets/Scripts/MMG_Turorial.cs" Line="163" Column="28" />
+      <File FileName="Assets/Scripts/GameEndState.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SCC MMG" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MMG_Turorial.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db22f43f-099a-43ff-b2a7-2a47f4f00af0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

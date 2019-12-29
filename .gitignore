@@ -1,0 +1,6 @@
+obj
+Logs
+Library/ScriptAssemblies
+*.json
+Library/shadercompiler*.log
+Library/ShaderCache*
